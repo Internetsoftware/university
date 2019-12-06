@@ -47,10 +47,7 @@ class Mytimer():
 
         self.begin = 0
         self.end = 0
-a = Mytimer()
-a.start()
-a.stop()
-a.prmpt
+
 
 
 
